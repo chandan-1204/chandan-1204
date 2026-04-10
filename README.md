@@ -66,12 +66,6 @@
 
 ---
 
-## 📈 GitHub Stats  
-
-![Chandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandan-1204&show_icons=true&theme=radical)
-
----
-
 ## 🔥 GitHub Streak  
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=chandan-1204&theme=radical)
